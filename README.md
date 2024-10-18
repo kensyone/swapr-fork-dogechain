@@ -1,6 +1,12 @@
-# Swapr dapp
+# Swapr Fork Dogechain
 
-An open source decentralized application for Swapr -- a protocol for decentralized exchange of Ethereum tokens governed by the DXdao.
+This repo contains a complete fork of [Swapr](https://swapr.eth.limo) protocol added support for [Dogechain](https://dogechain.dog) & aggregates Dogeswap, Frax, QuickswapV2 & Kibbleswap.
+
+## Interface on Dogechain
+
+This interface is fork of [swapr dapp 1.0.0-beta.13](https://github.com/SwaprHQ/swapr-dapp/tree/v1.0.0-beta.13)
+
+You can find the live interface on Dogechain here: https://swapr-fork-dogechain.netlify.app/#/swap?chainId=2000
 
 ### Run
 
@@ -15,7 +21,7 @@ Swapr releases are published to the IPFS at [swapr.eth](https://swapr.eth.limo).
 Clone the repo
 
 ```bash
-git clone https://github.com/levelkdev/dxswap-dapp.git
+git clone https://github.com/kensyone/swapr-fork-dogechain.git
 ```
 
 Install dependencies using Yarn
