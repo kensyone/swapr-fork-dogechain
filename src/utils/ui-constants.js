@@ -58,7 +58,7 @@ export const mainNavigation = [
 ]
 
 export const HeroContent = {
-  mainText: <span>Swap, Bridge, Farm across chains.</span>,
+  mainText: <span>Find. The. Best. Rates.</span>,
   heroLogos: [
     {
       img: EthereumLogo,
@@ -121,7 +121,7 @@ export const RoutingThroughContent = {
 
 export const FeaturesContent = {
   topBanner: {
-    title: 'Swap, Bridge, Farm across chains.',
+    title: 'Find. The. Best. Rates.',
     logos: [EthereumLogo, ArbitrumLogo, DogechainLogo, PolygonLogo],
   },
   preHeader: 'Swapr Fork Features',

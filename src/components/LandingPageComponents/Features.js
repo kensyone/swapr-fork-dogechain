@@ -13,7 +13,7 @@ const Features = () => {
         <strong>{FeaturesContent.topBanner.title}</strong>
         <div className="top-banner-logos">
           {FeaturesContent.topBanner.logos.map((logo, index) => (
-            <img key={index} src={logo} alt={'Swap, Bridge, Farm across chains.'} />
+            <img key={index} src={logo} alt={'Find. The. Best. Rates.'} />
           ))}
         </div>
       </section>
