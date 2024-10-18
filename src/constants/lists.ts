@@ -3,8 +3,8 @@
 import { DEFAULT_TOKEN_LIST } from '.'
 
 const UNISWAP_LIST = 'https://tokens.uniswap.org'
-const OMNOM_LIST = 'https://raw.githubusercontent.com/Grriel/tokenlist/main/tokenlist/tokenlist.json'
-const QUICKSWAP_LIST = 'https://unpkg.com/quickswap-default-token-list@1.3.42/build/quickswap-default.tokenlist.json'
+const OMNOM_LIST = 'https://raw.githubusercontent.com/omnomcommunity/tokenlist/refs/heads/main/tokenlist/tokenlist.json'
+const QUICKSWAP_LIST = 'https://unpkg.com/quickswap-default-token-list@1.3.55/build/quickswap-default.tokenlist.json'
 // const DFYN_LIST = 'https://raw.githubusercontent.com/dfyn/new-host/main/list-token.tokenlist.json'
 
 export const UNSUPPORTED_LIST_URLS: string[] = []
