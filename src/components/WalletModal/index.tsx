@@ -236,7 +236,7 @@ export default function WalletModal({
             FIND BEST RATE
           </TYPE.body>
           <TYPE.body fontWeight={600} fontSize="8px" color="text5" letterSpacing="2px">
-            OPTISWAP
+            SWAPR
           </TYPE.body>
           <img src={DxDao} alt="dxdao" />
         </Blurb>
